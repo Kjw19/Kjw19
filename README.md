@@ -5,3 +5,7 @@ Kjw19's GitHub
 <img src="https://img.shields.io/badge/Spring Boot-green?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
 ![Kjw19's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kjw19)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Kjw19/school)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Kjw19/together)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Kjw19/ProjectTeam4)
