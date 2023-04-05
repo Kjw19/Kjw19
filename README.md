@@ -6,6 +6,6 @@ Kjw19's GitHub
 
 ![Kjw19's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kjw19)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Kjw19/school)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Kjw19/together)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Kjw19/ProjectTeam4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kjw19&repo=school)](https://github.com/Kjw19/school)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kjw19&repo=together)](https://github.com/Kjw19/together)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kjw19&repo=ProjectTeam4)](https://github.com/Kjw19/ProjectTeam4)
